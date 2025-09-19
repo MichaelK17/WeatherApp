@@ -9,9 +9,13 @@
   /* Place vertically */
   display: grid;
   font-size: 20px;
-  justify-content: center;
-  flex-wrap: no-wrap;
-  border: 2px solid white;
+  align-items: center;
+  /* Bright black / Dark white */
+  background-color: rgba(255, 255, 255, 0.1);
+  /* Rounded corners */
+  border-radius: 12px;
+  /* Add space above the card */
+  margin-top: 30px;
 }
 
 .container {
