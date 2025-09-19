@@ -1,0 +1,19 @@
+{
+  "editor.formatOnSave": true,
+  "eslint.validate": ["javascript", "javascriptreact"],
+  "eslint.workingDirectories": [
+    { "mode": "auto" }
+  ],
+  "eslint.nodePath": "./project/node_modules",
+  "files.exclude": {
+    "node_modules": true,
+    ".git": true,
+    ".vscode": true,
+    ".expo": true,
+    "dist": true,
+    "build": true
+  },
+  "git.enableSmartCommit": true,
+  "git.autofetch": true,
+  "git.postCommitCommand": "push"
+}
