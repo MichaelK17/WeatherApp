@@ -20,7 +20,7 @@ function App() {
     e.preventDefault();
     // Show loading status
     setIsLoading(true);
-    // setWeatherData(null);
+    setWeatherData(null);
 
     // Set timeout to display loading
     setTimeout(() => {
