@@ -18,14 +18,5 @@
 ### Prompt 4:
 >"Replace me with a propt"
 
----
-
-### Prompt 4:
->"Replace me with a propt"
-
----
-
-### Prompt 4:
->"Replace me with a propt"
 
 ---
